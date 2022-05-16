@@ -1,0 +1,31 @@
+{
+  "name": "solidjs-crud",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "@types/jest": "27.0.2",
+    "@types/node": "16.11.7",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.3.11",
+    "solid-js": "^1.2.3",
+    "solid-scripts": "0.0.61",
+    "tailwindcss": "^2.2.19",
+    "typescript": "4.4.4"
+  },
+  "dependencies": {
+    "solid-app-router": "^0.1.11",
+    "solid-meta": "^0.27.2"
+  },
+  "scripts": {
+    "start": "solid-scripts start",
+    "build": "solid-scripts build",
+    "test": "solid-scripts test"
+  },
+  "browserslist": [
+    "Chrome 74",
+    "Firefox 63",
+    "Safari 11",
+    "Edge 17",
+    "Node 10"
+  ]
+}
